@@ -1,0 +1,13 @@
+# 个人数据：导出的常用请求里含内网地址与请求体，不要提交
+http-console-saved.json
+
+# 同源模式下导出的响应
+saved/
+
+# Python / 编辑器产物
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
