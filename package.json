@@ -1,0 +1,13 @@
+{
+  "name": "http-console",
+  "version": "1.0.0",
+  "private": true,
+  "description": "单文件 HTTP/SSE 调试台：显示服务端返回的原样字节",
+  "scripts": {
+    "test": "node tests/test_ui.js",
+    "test:server": "python tests/test_server.py"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

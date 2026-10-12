@@ -7,6 +7,7 @@ saved/
 # Python / 编辑器产物
 __pycache__/
 *.pyc
+node_modules/
 .vscode/
 .idea/
 .DS_Store
